@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "698569283796",
+    "firebase_url": "https://devthreads-42de5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "devthreads-42de5",
+    "storage_bucket": "devthreads-42de5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698569283796:android:93c38b04b20a76cd920341",
+        "android_client_info": {
+          "package_name": "com.sksingh.devthreads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Q71NljP_IjYGj7jjjY2Eiv_Wsh4hezU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
